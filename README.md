@@ -4,7 +4,8 @@ Scrivi cosa vuoi, premi Genera, e AISuiteBuilder costruisce automaticamente: str
 
 Tutto in pochi secondi, senza scrivere una riga di codice.
 
-✨ Funzionalità principali: 🖥 GUI desktop completa (Windows) - 🤖 Generazione automatica tramite AI - 🧱 Siti multipagina pronti all’uso - 🎨 Temi e stile personalizzabili - ✍️ Copywriting realistico e contestuale - 🖼 Immagini generate e integrate - 📁 Output ordinato (HTML / CSS / assets) - 🚀 Nessuna configurazione complessa - 
+✨ Funzionalità principali:
+🖥 GUI desktop completa (Windows) - 🤖 Generazione automatica tramite AI - 🧱 Siti multipagina pronti all’uso - 🎨 Temi e stile personalizzabili - ✍️ Copywriting realistico e contestuale - 🖼 Immagini generate e integrate - 📁 Output ordinato (HTML / CSS / assets) - 🚀 Nessuna configurazione complessa - 
 
 🪄 Come funziona: 
 
