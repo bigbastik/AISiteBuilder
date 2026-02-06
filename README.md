@@ -1,98 +1,101 @@
-# AISiteBuilder
-
 AISuiteBuilder è un’applicazione desktop per Windows che genera siti web professionali completi partendo da una semplice descrizione testuale.
 
-Scrivi cosa vuoi, premi **Genera**, e AISuiteBuilder costruisce automaticamente:
-- struttura del sito
-- pagine HTML complete
-- CSS moderno e responsive
-- testi professionali in italiano
-- immagini coerenti con il progetto
+Scrivi cosa vuoi, premi Genera, e AISuiteBuilder costruisce automaticamente:
+
+struttura del sito
+
+pagine HTML complete
+
+CSS moderno e responsive
+
+testi professionali in italiano
+
+immagini coerenti con il progetto
 
 Tutto in pochi secondi, senza scrivere una riga di codice.
 
----
-
 ✨ Funzionalità principali
 
-🖥 Applicazione desktop Windows (portable, nessuna installazione)  
-🤖 Generazione automatica tramite AI  
-🧱 Siti multipagina pronti all’uso  
-✍️ Copywriting realistico e contestuale  
-🖼 Immagini generate e integrate automaticamente  
-🎨 Tema grafico personalizzabile  
-📄 Editor Meta / SEO (title, description, keywords)  
-📝 Editor dei contenuti delle pagine  
-💾 Salvataggio del progetto  
-🔁 Rigenerazione HTML da progetto esistente  
-📁 Output ordinato (HTML / CSS / assets)  
+🖥 GUI desktop completa (Windows)
 
----
+🤖 Generazione automatica tramite AI
+
+🧱 Siti multipagina pronti all’uso
+
+🎨 Temi e stile personalizzabili
+
+✍️ Copywriting realistico e contestuale
+
+🖼 Immagini generate e integrate
+
+📁 Output ordinato (HTML / CSS / assets)
+
+🚀 Nessuna configurazione complessa
 
 🪄 Come funziona
 
-1. Avvia AISuiteBuilder
-2. Inserisci una descrizione del sito  
-   (es. *“Studio legale moderno specializzato in diritto del lavoro”*)
-3. Premi **Genera sito**
-4. L’app:
-   - analizza la richiesta
-   - pianifica la struttura del sito
-   - genera pagine, testi, stile e immagini
-5. Il sito viene creato automaticamente nella cartella `project`
+Inserisci una descrizione del sito
+(es. “Studio legale moderno specializzato in diritto del lavoro”)
 
-Il progetto può essere:
-- riaperto
-- modificato
-- rigenerato più volte
+Premi Genera sito
 
----
+AISuiteBuilder:
+
+analizza la richiesta
+
+pianifica la struttura
+
+genera pagine, testi, stile e immagini
+
+Il sito viene creato automaticamente nella cartella project/.
 
 🖼 Interfaccia
 
-- Campo di testo per il prompt
-- Log in tempo reale
-- Generazione asincrona (l’app non si blocca)
-- Design scuro moderno
-- Navigazione per:
-  - pagine del sito
-  - sezioni della pagina
-  - contenuti editabili
+Campo di testo per il prompt
 
----
+Log in tempo reale
 
-🧩 Editor pagine e contenuti
+Generazione asincrona (l’app non si blocca)
 
-- Selezione della pagina
-- Selezione della sezione
-- Modifica dei testi
-- Salvataggio diretto sul progetto
-- Rigenerazione dell’HTML mantenendo le modifiche
+Design scuro moderno
 
-⚠️ Nota  
-L’editor delle sezioni è funzionale per la modifica dei contenuti.
-L’interfaccia per la gestione avanzata delle sezioni è in continua evoluzione.
-
----
+Editor sezioni (head / corpo / footer)
 
 ⚙️ Requisiti
 
-- Windows 10 / 11
-- Nessuna installazione richiesta
-- Applicazione portable (`.exe`)
+Windows 10 / 11
 
----
+Nessuna installazione obbligatoria
+
+Funziona come eseguibile standalone (.exe)
+
+👉 Non è necessario installare Python né altre dipendenze.
+
+🤖 AI & Modelli locali (opzionale)
+
+AISuiteBuilder funziona anche senza modelli AI locali.
+
+💡 In modalità avanzata o sviluppo è possibile utilizzare modelli AI locali
+(es. Ollama), ma NON è obbligatorio per l’utilizzo standard dell’applicazione.
+
+Se Ollama non è presente, l’app continua a funzionare normalmente.
+
+🚀 Avvio
+
+Scarica ed esegui:
+
+AISuiteBuilder.exe
+
+Nessuna configurazione richiesta.
 
 📌 Stato del progetto
 
-✅ Funzionante  
-✅ Stabile  
-✅ Progetti salvabili e riapribili  
-🔧 In continua evoluzione  
+✅ Funzionante
 
----
+✅ GUI stabile
+
+🔧 In continua evoluzione
 
 📄 Licenza
 
 MIT License
-
