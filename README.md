@@ -1,6 +1,6 @@
-🧠 AISuiteBuilder
+🧠 AISiteBuilder
 
-AISuiteBuilder è un’applicazione desktop per Windows che genera siti web professionali completi partendo da una semplice descrizione testuale.
+AISiteBuilder è un’applicazione desktop per Windows che genera siti web professionali completi partendo da una semplice descrizione testuale.
 
 Scrivi cosa vuoi, premi Genera, e AISuiteBuilder costruisce automaticamente: struttura del sito - pagine HTML complete - CSS moderno e responsive - testi professionali in italiano - immagini coerenti con il progetto.
 
