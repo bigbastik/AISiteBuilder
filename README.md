@@ -1,203 +1,72 @@
-🧠 AISiteBuilder
+           _    ___ ____ ___ _____ _____ ____  _   _ ___ _     ____  _____ ____  
+          / \  |_ _/ ___|_ _|_   _| ____| __ )| | | |_ _| |   |  _ \| ____|  _ \ 
+         / _ \  | |\___ \| |  | | |  _| |  _ \| | | || || |   | | | |  _| | |_) |
+        / ___ \ | | ___) | |  | | | |___| |_) | |_| || || |___| |_| | |___|  _ < 
+       /_/   \_\___|____/___| |_| |_____|____/ \___/|___|_____|____/|_____|_| \_\
+   
+                                                           
+🧠 AISuiteBuilder
 
-AISiteBuilder è un’applicazione desktop per Windows che consente di generare, modificare e rigenerare siti web completi partendo da una semplice descrizione testuale, con una GUI moderna e un’architettura modulare e estendibile.
-
-Scrivi cosa vuoi creare, premi Genera, e AISiteBuilder costruisce automaticamente:
-
-struttura del sito
-
-pagine HTML multipagina
-
-CSS moderno e responsive
-
-testi professionali in italiano
-
-immagini coerenti con il progetto
-
-Tutto senza scrivere codice, ma con controllo totale dopo la generazione.
+AISuiteBuilder è una suite desktop per Windows che genera siti web professionali completi partendo da una semplice descrizione testuale.
+Scrivi cosa vuoi realizzare, premi Genera, e l’app costruisce automaticamente un sito pronto all’uso, senza scrivere una riga di codice.
+Il sistema è progettato per produrre output reali e utilizzabili, non demo: HTML, CSS e asset vengono generati a partire da una struttura dati solida e sempre rigenerabile.
 
 ✨ Funzionalità principali
-🖥 Applicazione Desktop
 
-GUI nativa Windows (PySide6 / Qt)
-
-Interfaccia a tab, chiara e modulare
-
-Tema scuro moderno
-
-Log eventi in tempo reale
-
-🤖 Generazione AI
-
-Analisi del prompt testuale
-
-Pianificazione automatica del sito
-
-Copywriting realistico e contestuale in italiano
-
-Generazione asincrona (la GUI non si blocca)
-
-🧱 Gestione Progetti
-
-Progetti salvati localmente
-
-Apertura e modifica di progetti esistenti
-
-Output ordinato:
-
-project/
-  └── nome_progetto/
-      ├── index.html
-      ├── altre_pagine.html
-      ├── style.css
-      └── assets/
-          └── images/
-
-✍️ Editor Pagine
-
-Selezione pagina
-
-Selezione sezione
-
-Modifica titolo e testo delle sezioni
-
-Salvataggio persistente dei contenuti
-
-Nessuna perdita di dati durante rigenerazioni
-
-🎨 Stile & Tema
-
-Modifica manuale dei colori:
-
-colore primario
-
-colore secondario
-
-sfondo
-
-testo
-
-font
-
-Applicazione immediata al sito
-
-Rigenerazione HTML senza perdere i contenuti editati
-
-📐 Layout & Temi (Preset)
-
-Selezione layout predefiniti
-
-Selezione temi predefiniti
-
-Applicazione non distruttiva:
-
-il layout cambia la struttura
-
-il tema cambia solo lo stile
-
-i contenuti editati restano intatti
-
-🖼 Immagini
-
-Download automatico immagini per le gallery
-
-Gestione automatica della cartella assets
-
-Integrazione diretta nell’HTML
+🖥 Applicazione desktop Windows (portable)
+🤖 Generazione automatica tramite AI
+🧱 Siti multipagina professionali
+✍️ Copywriting realistico in italiano, diverso per ogni pagina
+🎨 Temi e layout preset, applicabili in qualsiasi momento
+🧩 Editor visuale di pagine e sezioni
+🔁 Rigenerazione HTML/CSS non distruttiva
+📁 Output ordinato (HTML / CSS / assets)
+🚀 Nessuna configurazione richiesta all’utente
 
 🪄 Come funziona
 
 Inserisci una descrizione del sito
+(es. “Studio legale moderno specializzato in diritto del lavoro”)
 
-“Studio legale moderno specializzato in diritto del lavoro”
-
-Premi Genera nuovo sito
-
-AISiteBuilder:
-
-analizza il prompt
-
-crea la struttura del progetto
-
-genera testi, pagine e stile
-
-salva tutto localmente
-
-Puoi:
-
-modificare testi e sezioni
-
-cambiare tema o layout
-
-rigenerare l’HTML in qualsiasi momento
+Premi Genera sito
+AISuiteBuilder:
+analizza la richiesta, pianifica pagine e sezioni, genera struttura, testi e stile
+Il sito viene creato nella cartella /project
+👉 Il file project.json è la fonte di verità:
+HTML e CSS vengono sempre rigenerati da lì, mai modificati manualmente.
 
 🖼 Interfaccia
 
-Tab Generazione
+Campo di testo per il prompt
+Log di avanzamento in tempo reale
+Generazione asincrona (l’app non si blocca)
+Editor per pagine e sezioni
+Gestione Layout & Temi tramite preset
+Design scuro moderno e pulito
 
-Tab Meta / SEO
+🧩 Architettura
 
-Tab Stile
-
-Tab Editor Pagine
-
-Tab Layout & Temi
-
-Log eventi in tempo reale
-
-Worker separato per le operazioni pesanti
+Il progetto è strutturato in modo modulare ed estendibile:
+core/ → parsing AI, logica, generazione contenuti e sito
+gui/ → interfaccia desktop (PySide6)
+project/ → progetti generati (project.json, HTML, CSS)
+library/ → layout e temi preset
+La GUI non contiene logica di business: è solo un’interfaccia sopra il core.
 
 ⚙️ Requisiti
 
 Windows 10 / 11
-
-Nessuna configurazione richiesta
-
-Funziona come eseguibile standalone (.exe)
-
-👉 Non è necessario installare Python né dipendenze esterne per l’uso normale.
-
-🤖 AI & Modalità Avanzata
-
-AISiteBuilder funziona anche senza modelli AI locali.
-
-In modalità sviluppo o avanzata è possibile:
-
-usare modelli AI locali (es. Ollama)
-
-estendere il sistema di generazione
-
-➡️ Se un modello locale non è presente, l’app continua a funzionare normalmente.
-
-🚀 Avvio
-
-Avvia semplicemente:
-
-AISiteBuilder.exe
-
-
-Nessuna configurazione richiesta.
-
-🧩 Architettura
-
-gui/ → interfaccia grafica
-
-core/ → generazione sito, AI, immagini
-
-project/ → gestione progetti e persistenza
-
-templates/ → layout e preset
-
-Architettura pensata per estensione continua
+Versione portable (nessuna installazione necessaria)
+💡 In modalità sviluppo il core può essere collegato a modelli AI diversi (anche locali), ma l’utente finale non deve configurare nulla.
 
 📌 Stato del progetto
+✅ Core stabile
+✅ GUI funzionante
+✅ Layout e temi applicabili
+✅ Rigenerazione affidabile
 
-✅ GUI stabile
-✅ Generazione funzionante
-✅ Editor persistente
-✅ Temi & layout non distruttivi
 🔧 In continua evoluzione
-
 📄 Licenza
 
 MIT License
+
