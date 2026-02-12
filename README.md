@@ -1,10 +1,3 @@
-       _    ___ ____ ___ _____ _____ ____  _   _ ___ _     ____  _____ ____  
-      / \  |_ _/ ___|_ _|_   _| ____| __ )| | | |_ _| |   |  _ \| ____|  _ \ 
-     / _ \  | |\___ \| |  | | |  _| |  _ \| | | || || |   | | | |  _| | |_) |
-    / ___ \ | | ___) | |  | | | |___| |_) | |_| || || |___| |_| | |___|  _ < 
-   /_/   \_\___|____/___| |_| |_____|____/ \___/|___|_____|____/|_____|_| \_\
-
-
 ## 🧠 AISiteBuilder
 AISiteBuilder è una suite desktop per Windows che genera siti web professionali partendo da una semplice descrizione testuale. 
 Scrivi cosa vuoi realizzare, premi Genera, e l’app costruisce automaticamente un sito pronto all’uso: 
