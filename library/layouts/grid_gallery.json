@@ -1,0 +1,11 @@
+{
+  "nome": "Grid Gallery",
+  "sezioni": [
+    "header",
+    "hero",
+    "gallery-grid",
+    "services",
+    "cta",
+    "footer"
+  ]
+}

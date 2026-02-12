@@ -1,0 +1,12 @@
+{
+  "tema": {
+    "colore_primario": "#f43f5e",
+    "colore_secondario": "#3b82f6",
+    "sfondo": "#f0f9ff",
+    "testo": "#111827",
+    "font": "'Poppins', sans-serif",
+    "radius": "20px",
+    "hero_padding": "80px",
+    "container_padding": "75px"
+  }
+}

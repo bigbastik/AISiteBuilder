@@ -1,0 +1,13 @@
+{
+  "nome": "Full Moderno",
+  "sezioni": [
+    "header",
+    "hero-slider",
+    "services",
+    "features",
+    "gallery-slider",
+    "testimonials",
+    "cta",
+    "footer"
+  ]
+}

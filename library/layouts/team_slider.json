@@ -1,0 +1,11 @@
+{
+  "nome": "Team Slider",
+  "sezioni": [
+    "header",
+    "hero",
+    "team-slider",
+    "text",
+    "cta",
+    "footer"
+  ]
+}

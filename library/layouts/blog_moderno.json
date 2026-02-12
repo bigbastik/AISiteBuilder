@@ -1,0 +1,10 @@
+{
+  "nome": "Blog Moderno",
+  "sezioni": [
+    "header",
+    "hero",
+    "blog-list",
+    "cta",
+    "footer"
+  ]
+}

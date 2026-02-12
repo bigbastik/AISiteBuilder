@@ -1,0 +1,12 @@
+{
+  "nome": "Landing Moderno",
+  "sezioni": [
+    "header",
+    "hero",
+    "features",
+    "testimonials",
+    "gallery-slider",
+    "cta",
+    "footer"
+  ]
+}

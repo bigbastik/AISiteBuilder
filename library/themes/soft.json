@@ -1,0 +1,12 @@
+{
+  "tema": {
+    "colore_primario": "#f472b6",
+    "colore_secondario": "#fcd34d",
+    "sfondo": "#fff0f6",
+    "testo": "#111827",
+    "font": "'Nunito', sans-serif",
+    "radius": "18px",
+    "hero_padding": "70px",
+    "container_padding": "65px"
+  }
+}

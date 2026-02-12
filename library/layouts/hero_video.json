@@ -1,0 +1,10 @@
+{
+  "nome": "Hero Video",
+  "sezioni": [
+    "header",
+    "hero-video",
+    "text",
+    "cta",
+    "footer"
+  ]
+}

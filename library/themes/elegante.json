@@ -1,0 +1,12 @@
+{
+  "tema": {
+    "colore_primario": "#2d2d2d",
+    "colore_secondario": "#5a5a5a",
+    "sfondo": "#fefefe",
+    "testo": "#222222",
+    "font": "'Merriweather', serif",
+    "radius": "12px",
+    "hero_padding": "70px",
+    "container_padding": "60px"
+  }
+}

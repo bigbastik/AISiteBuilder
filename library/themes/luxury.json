@@ -1,0 +1,12 @@
+{
+  "tema": {
+    "colore_primario": "#b45309",
+    "colore_secondario": "#fde68a",
+    "sfondo": "#fff7ed",
+    "testo": "#1e293b",
+    "font": "'Playfair Display', serif",
+    "radius": "24px",
+    "hero_padding": "85px",
+    "container_padding": "80px"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "tema": {
+    "colore_primario": "#b91c1c",
+    "colore_secondario": "#facc15",
+    "sfondo": "#fff7ed",
+    "testo": "#1f2937",
+    "font": "'Georgia', serif",
+    "radius": "20px",
+    "hero_padding": "80px",
+    "container_padding": "70px"
+  }
+}

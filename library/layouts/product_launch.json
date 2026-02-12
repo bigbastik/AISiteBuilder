@@ -1,0 +1,11 @@
+{
+  "nome": "Product Launch",
+  "sezioni": [
+    "header",
+    "hero",
+    "features",
+    "gallery-slider",
+    "cta",
+    "footer"
+  ]
+}

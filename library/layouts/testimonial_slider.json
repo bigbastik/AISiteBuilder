@@ -1,0 +1,10 @@
+{
+  "nome": "Testimonial Slider",
+  "sezioni": [
+    "header",
+    "hero",
+    "testimonials-slider",
+    "cta",
+    "footer"
+  ]
+}

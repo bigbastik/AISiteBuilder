@@ -1,0 +1,12 @@
+{
+  "nome": "Landing Creativo",
+  "sezioni": [
+    "header",
+    "hero-slider",
+    "services",
+    "features",
+    "testimonials",
+    "cta",
+    "footer"
+  ]
+}

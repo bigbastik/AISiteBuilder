@@ -1,0 +1,11 @@
+{
+  "nome": "Prodotti e Servizi",
+  "sezioni": [
+    "header",
+    "hero",
+    "services",
+    "gallery-slider",
+    "cta",
+    "footer"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "tema": {
+    "colore_primario": "#0ea5e9",
+    "colore_secondario": "#f472b6",
+    "sfondo": "#1f2937",
+    "testo": "#f8fafc",
+    "font": "'Roboto', sans-serif",
+    "radius": "16px",
+    "hero_padding": "75px",
+    "container_padding": "70px"
+  }
+}

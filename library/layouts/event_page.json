@@ -1,0 +1,11 @@
+{
+  "nome": "Event Page",
+  "sezioni": [
+    "header",
+    "hero-video",
+    "schedule",
+    "speakers",
+    "cta",
+    "footer"
+  ]
+}

@@ -1,0 +1,5 @@
+{
+    "provider": "mlvoca",
+    "model": "tinyllama",
+    "url": "https://mlvoca.com/api/generate"
+}

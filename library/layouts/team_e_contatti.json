@@ -1,0 +1,11 @@
+{
+  "nome": "Team e Contatti",
+  "sezioni": [
+    "header",
+    "hero",
+    "team",
+    "text",
+    "contact",
+    "footer"
+  ]
+}

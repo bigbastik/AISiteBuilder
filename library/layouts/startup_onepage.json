@@ -1,0 +1,13 @@
+{
+  "nome": "Startup OnePage",
+  "sezioni": [
+    "header",
+    "hero-slider",
+    "services",
+    "features",
+    "testimonials",
+    "team",
+    "cta",
+    "footer"
+  ]
+}

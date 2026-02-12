@@ -1,0 +1,12 @@
+{
+  "nome": "Landing Agency",
+  "sezioni": [
+    "header",
+    "hero-slider",
+    "services",
+    "team",
+    "gallery-slider",
+    "cta",
+    "footer"
+  ]
+}

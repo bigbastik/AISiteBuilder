@@ -1,0 +1,11 @@
+{
+  "nome": "Hero Doppio",
+  "sezioni": [
+    "header",
+    "hero-slider",
+    "text",
+    "gallery-slider",
+    "cta",
+    "footer"
+  ]
+}

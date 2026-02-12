@@ -1,0 +1,12 @@
+{
+  "tema": {
+    "colore_primario": "#111111",
+    "colore_secondario": "#333333",
+    "sfondo": "#ffffff",
+    "testo": "#111111",
+    "font": "'Helvetica Neue', Arial, sans-serif",
+    "radius": "6px",
+    "hero_padding": "40px",
+    "container_padding": "45px"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "nome": "CTA Hero",
+  "sezioni": [
+    "header",
+    "hero-cta",
+    "features",
+    "testimonials",
+    "footer"
+  ]
+}

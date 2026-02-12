@@ -1,0 +1,11 @@
+{
+  "nome": "Due Colonne",
+  "sezioni": [
+    "header",
+    "hero",
+    "text_col_left",
+    "text_col_right",
+    "cta",
+    "footer"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "tema": {
+    "colore_primario": "#1e3a8a",
+    "colore_secondario": "#60a5fa",
+    "sfondo": "#f1f5f9",
+    "testo": "#1e293b",
+    "font": "'Inter', 'Segoe UI', sans-serif",
+    "radius": "14px",
+    "hero_padding": "60px",
+    "container_padding": "60px"
+  }
+}

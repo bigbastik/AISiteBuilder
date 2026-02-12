@@ -1,0 +1,11 @@
+{
+  "nome": "Azienda Base",
+  "sezioni": [
+    "header",
+    "hero",
+    "services",
+    "features",
+    "cta",
+    "footer"
+  ]
+}

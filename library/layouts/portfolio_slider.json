@@ -1,0 +1,10 @@
+{
+  "nome": "Portfolio Slider",
+  "sezioni": [
+    "header",
+    "hero",
+    "gallery-slider",
+    "cta",
+    "footer"
+  ]
+}

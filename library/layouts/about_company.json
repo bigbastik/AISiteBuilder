@@ -1,0 +1,11 @@
+{
+  "nome": "About Company",
+  "sezioni": [
+    "header",
+    "hero",
+    "text",
+    "team",
+    "cta",
+    "footer"
+  ]
+}
